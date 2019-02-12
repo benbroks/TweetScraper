@@ -1,4 +1,4 @@
-#Tweet Scraper
+# Tweet Scraper
 
 Using the twitterscraper tool to scrape the latest 500 tweets of U.S. Senators and other prominent politicans. Their tweets will serve as labelled partisan speech to train a supervised NLP classification model, which will eventually be able to classify the tweets of any twitter user (or any text block) given their handle as input.
 
